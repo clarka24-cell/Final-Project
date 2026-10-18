@@ -171,7 +171,7 @@ body.shinee-theme {
 }
 body.shinee-theme header {
     background-color: #00bcd4;
-    color: #000000;
+    color: #ffffff;
 }
 body.shinee-theme nav {
     background-color: #006064;
@@ -344,10 +344,9 @@ body.title-theme main h2 {
 body.title-theme main{
     background-color: #dfbefc; 
     color: #000000;  
-    padding: 25px;
-    border-radius: 10px;
-    margin: 20px auto 30px auto;  
-    max-width: 1000px;      
+    width: 100%;
+    margin: 0;
+    padding: 2%;
 }
 body.title-theme header {
     background-color: #1d0032;
