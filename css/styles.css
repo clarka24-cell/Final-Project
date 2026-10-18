@@ -344,14 +344,13 @@ body.title-theme main h2 {
 body.title-theme main{
     background-color: #dfbefc; 
     color: #000000;  
-    width: 100%;
+    max-width: none;
     margin: 0;
     padding: 2%;
 }
 body.title-theme header {
     background-color: #1d0032;
     color: #c998ef;
-    padding: 1.5em 0;
 }
 body.title-theme nav {
     background-color: #c998ef;
