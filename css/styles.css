@@ -30,7 +30,7 @@ img {
     text-align: center;
 }
 .mobile h1 {
-    font-family: 'Emblema One', cursive;
+    font-family: 'Lora', serif;
 }
 .mobile h3 {
     font-family: 'Lora', serif;
@@ -225,7 +225,7 @@ body.lesserafim-theme nav li a:hover {
 }
 
 body.lesserafim-theme footer {
-    background-color: #2c3e50;
+    background-color: #263645;
     color: #ffffff;
 }
 body.lesserafim-theme img {
@@ -323,7 +323,7 @@ body.blackpink-theme nav li a:hover {
 }
 body.blackpink-theme footer {
     background-color: #000000;
-    color: #ffb6c1;
+    color: #ffffff;
 }
 body.blackpink-theme img {
     border: 4px solid #ffb6c1;
